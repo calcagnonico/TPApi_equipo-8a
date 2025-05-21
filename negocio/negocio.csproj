@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net4.8</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+		<LangVersion>10.0</LangVersion>
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="bootstrap" Version="5.3.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\dominio\dominio.csproj" />
+	</ItemGroup>
+</Project>
