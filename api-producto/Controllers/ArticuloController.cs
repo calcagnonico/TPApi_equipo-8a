@@ -20,9 +20,16 @@ namespace api_producto.Controllers
         }
 
         // GET: api/Articulo/5
-        public string Get(int id)
+        public Articulo Get(int id)
         {
-            return "value";
+           // return "value";
+
+            ArticuloNegocio negocio = new ArticuloNegocio();
+            return negocio.obtenerPorId(id);
+
+
+            
+
         }
 
         // POST: api/Articulo
@@ -54,7 +61,6 @@ namespace api_producto.Controllers
             {
                 return BadRequest("Error al cargar imágenes: " + ex.Message);
             }
-
         }
 
         // PUT: api/Articulo/5
