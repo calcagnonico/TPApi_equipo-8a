@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\negocio.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\negocio\\negocio.csproj": {}
   },
   "projects": {
-    "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\dominio.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\dominio\\dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\dominio\\dominio.csproj",
         "projectName": "dominio",
-        "projectPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\dominio.csproj",
-        "packagesPath": "C:\\Users\\calca\\.nuget\\packages\\",
-        "outputPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\dominio\\dominio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\calca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,20 +59,20 @@
         }
       }
     },
-    "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\negocio.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\negocio\\negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\negocio.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\negocio\\negocio.csproj",
         "projectName": "negocio",
-        "projectPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\negocio.csproj",
-        "packagesPath": "C:\\Users\\calca\\.nuget\\packages\\",
-        "outputPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\negocio\\negocio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\calca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,8 +87,8 @@
           "net48": {
             "targetAlias": "net4.8",
             "projectReferences": {
-              "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\dominio.csproj": {
-                "projectPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\dominio.csproj"
+              "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\dominio\\dominio.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\RepoGitApi\\TPApi_equipo-8a\\dominio\\dominio.csproj"
               }
             }
           }

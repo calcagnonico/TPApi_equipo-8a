@@ -1,0 +1,13 @@
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\bin\Debug\net4.8\negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\bin\Debug\net4.8\negocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\bin\Debug\net4.8\dominio.dll
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\bin\Debug\net4.8\dominio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.sourcelink.json
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.csproj.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.pdb
