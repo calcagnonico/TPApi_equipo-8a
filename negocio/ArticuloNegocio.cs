@@ -219,6 +219,49 @@ namespace negocio
             }
         }
 
+        public string agregarImagenes(int id, List<string> listaImagenes)
+        {
+            Articulo articulo = obtenerPorId(id);
+
+            if (articulo.Id == 0)
+            { return "Error: El Articulo No existe"; }
+
+            AccesoBD datos = new AccesoBD();
+            try
+            {
+                int vuelta = 0;
+                foreach (string imagen in listaImagenes)
+                {
+                    if (imagen == "")
+                    { continue; }
+                    datos.setearConsulta("INSERT INTO IMAGENES (IdArticulo, ImagenUrl) VALUES (@idarticulo, @imagenurl)");
+                    datos.setearParametro("@imagenurl", imagen);
+                    datos.setearParametro("@idarticulo", id);
+                    if (vuelta == 0)
+                    {
+                        datos.ejecutarAccion();
+                    }
+                    else
+                    {
+                        datos.ejecutarMasAcciones();
+                    }
+                    datos.limpiarParametros();
+                    vuelta++;
+                }
+
+                return "Cargadas " + vuelta.ToString() + " Imagenes en el Articulo " + id;
+
+            }
+            catch (Exception ex)
+            {
+                return ex.ToString();
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+
         public void modificar(Articulo articulo)
         {
             AccesoBD datosTablaArticulos = new AccesoBD();
@@ -307,7 +350,6 @@ namespace negocio
             }
         }
 
-
         public void eliminar(int Id)
         {
             try
@@ -316,6 +358,12 @@ namespace negocio
                 datos.setearConsulta("delete from articulos where Id = @Id");
                 datos.setearParametro("@Id", Id);
                 datos.ejecutarAccion();
+
+                datos.limpiarParametros();
+                datos.setearConsulta("delete from IMAGENES where Id = @Id");
+                datos.setearParametro("@Id", Id);
+                datos.ejecutarAccion();
+
             }
             catch (Exception ex)
             {

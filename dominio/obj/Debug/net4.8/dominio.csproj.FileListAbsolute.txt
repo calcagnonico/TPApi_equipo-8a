@@ -8,3 +8,13 @@ C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\dominio\obj\Debu
 C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.sourcelink.json
 C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.dll
 C:\Users\Usuario\OneDrive\Escritorio\RepoGitApi\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.pdb
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\bin\Debug\net4.8\dominio.dll
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\bin\Debug\net4.8\dominio.pdb
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.csproj.AssemblyReference.cache
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.AssemblyInfoInputs.cache
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.AssemblyInfo.cs
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.csproj.CoreCompileInputs.cache
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.sourcelink.json
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.dll
+C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.pdb

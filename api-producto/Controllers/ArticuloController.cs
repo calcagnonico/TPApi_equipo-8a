@@ -14,12 +14,9 @@ namespace api_producto.Controllers
     {
         // GET: api/Articulo
         public IEnumerable<Articulo> Get()
-            
         {
             ArticuloNegocio negocio = new ArticuloNegocio();
             return negocio.listar();
-
-  
         }
 
         // GET: api/Articulo/5
@@ -29,7 +26,7 @@ namespace api_producto.Controllers
         }
 
         // POST: api/Articulo
-        public void Post([FromBody]ArticuloDto articulo)
+        public void Post([FromBody] ArticuloDto articulo)
         {
             ArticuloNegocio negocio = new ArticuloNegocio();
             Articulo nuevo = new Articulo();
@@ -40,12 +37,24 @@ namespace api_producto.Controllers
             nuevo.Categoria = new Categoria { Id = articulo.IdCategoria };
             nuevo.Imagen = articulo.Imagen;
             nuevo.Precio = articulo.Precio;
-
-
-
             negocio.agregar(nuevo);
+        }
 
-        
+        [HttpPost]
+        [Route("api/Articulo/AgregarImagenes")]
+        public IHttpActionResult Post([FromBody] ImagenesDto imagenes)
+        {
+            try
+            {
+                ArticuloNegocio negocio = new ArticuloNegocio();
+                string imagenResultado = negocio.agregarImagenes(imagenes.Id, imagenes.Imagenes);
+                return Ok(imagenResultado);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error al cargar imágenes: " + ex.Message);
+            }
+
         }
 
         // PUT: api/Articulo/5
