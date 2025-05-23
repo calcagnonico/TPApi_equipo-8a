@@ -22,14 +22,8 @@ namespace api_producto.Controllers
         // GET: api/Articulo/5
         public Articulo Get(int id)
         {
-           // return "value";
-
             ArticuloNegocio negocio = new ArticuloNegocio();
             return negocio.obtenerPorId(id);
-
-
-            
-
         }
 
         // POST: api/Articulo
@@ -63,9 +57,19 @@ namespace api_producto.Controllers
             }
         }
 
-        // PUT: api/Articulo/5
-        public void Put(int id, [FromBody]string value)
+        public void Put(int id, [FromBody] ArticuloDto articulo)
         {
+            ArticuloNegocio negocio = new ArticuloNegocio();
+            Articulo nuevo = new Articulo();
+            nuevo.Id = id;
+            nuevo.Codigo = articulo.Codigo;
+            nuevo.Nombre = articulo.Nombre;
+            nuevo.Descripcion = articulo.Descripcion;
+            nuevo.Marca = new Marca { Id = articulo.idMarca };
+            nuevo.Categoria = new Categoria { Id = articulo.IdCategoria };
+            nuevo.Imagen = articulo.Imagen;
+            nuevo.Precio = articulo.Precio;
+            negocio.modificar(nuevo);
         }
 
         // DELETE: api/Articulo/5

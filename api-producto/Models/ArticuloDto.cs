@@ -9,9 +9,6 @@ namespace api_producto.Models
 {
     public class ArticuloDto
     {
-
-
-       
                 public string Codigo { get; set; }
                 public string Nombre { get; set; }
 

@@ -266,6 +266,9 @@ namespace negocio
         {
             AccesoBD datosTablaArticulos = new AccesoBD();
 
+            if (obtenerPorId(articulo.Id).Id == 0)
+            { return;  }
+
             try
             {
                 //Esta era la consulta original antes de agregar la posibilidad de borrar las marcas y categorias
