@@ -24,3 +24,16 @@ C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\negoc
 C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.csproj.Up2Date
 C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.dll
 C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.pdb
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\bin\Debug\net4.8\negocio.dll
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\bin\Debug\net4.8\negocio.pdb
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\bin\Debug\net4.8\dominio.dll
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\bin\Debug\net4.8\dominio.pdb
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.csproj.AssemblyReference.cache
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.AssemblyInfoInputs.cache
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.AssemblyInfo.cs
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.csproj.CoreCompileInputs.cache
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.sourcelink.json
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.csproj.Up2Date
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.dll
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\obj\Debug\net4.8\negocio.pdb

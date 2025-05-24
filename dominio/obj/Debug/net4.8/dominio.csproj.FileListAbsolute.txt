@@ -18,3 +18,13 @@ C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\domin
 C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.sourcelink.json
 C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.dll
 C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.pdb
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\bin\Debug\net4.8\dominio.dll
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\bin\Debug\net4.8\dominio.pdb
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.csproj.AssemblyReference.cache
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.AssemblyInfoInputs.cache
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.AssemblyInfo.cs
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.csproj.CoreCompileInputs.cache
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.sourcelink.json
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.dll
+D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\dominio\obj\Debug\net4.8\dominio.pdb

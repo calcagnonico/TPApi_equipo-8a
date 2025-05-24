@@ -356,23 +356,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\calca\\.nuget\\packages\\": {},
+    "C:\\Users\\carle\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\negocio.csproj",
+      "projectUniqueName": "D:\\CódigoProgramación3\\10_APIs\\TPApi_equipo-8a\\negocio\\negocio.csproj",
       "projectName": "negocio",
-      "projectPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\negocio.csproj",
-      "packagesPath": "C:\\Users\\calca\\.nuget\\packages\\",
-      "outputPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\obj\\",
+      "projectPath": "D:\\CódigoProgramación3\\10_APIs\\TPApi_equipo-8a\\negocio\\negocio.csproj",
+      "packagesPath": "C:\\Users\\carle\\.nuget\\packages\\",
+      "outputPath": "D:\\CódigoProgramación3\\10_APIs\\TPApi_equipo-8a\\negocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\calca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -387,8 +387,8 @@
         "net48": {
           "targetAlias": "net4.8",
           "projectReferences": {
-            "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\dominio.csproj": {
-              "projectPath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\dominio\\dominio.csproj"
+            "D:\\CódigoProgramación3\\10_APIs\\TPApi_equipo-8a\\dominio\\dominio.csproj": {
+              "projectPath": "D:\\CódigoProgramación3\\10_APIs\\TPApi_equipo-8a\\dominio\\dominio.csproj"
             }
           }
         }
@@ -414,7 +414,7 @@
             "version": "[5.3.5, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

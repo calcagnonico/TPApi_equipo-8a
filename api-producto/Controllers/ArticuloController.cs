@@ -73,8 +73,18 @@ namespace api_producto.Controllers
         }
 
         // DELETE: api/Articulo/5
-        public void Delete(int id)
+        public IHttpActionResult Delete(int id)
         {
+            try
+            {
+                ArticuloNegocio negocio = new ArticuloNegocio();
+                negocio.eliminar(id);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Error al eliminar artículo: " + ex.Message);
+            }
         }
     }
 }
