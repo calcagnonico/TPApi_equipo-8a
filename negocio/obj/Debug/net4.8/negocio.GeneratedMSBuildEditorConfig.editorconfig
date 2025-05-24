@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = negocio
-build_property.ProjectDir = D:\CódigoProgramación3\10_APIs\TPApi_equipo-8a\negocio\
+build_property.ProjectDir = C:\Dropbox (Personal)\Programacion\GitHub\tp-api-equipo-8a\TPApi_equipo-8a\negocio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

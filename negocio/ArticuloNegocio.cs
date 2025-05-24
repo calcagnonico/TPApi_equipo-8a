@@ -355,9 +355,10 @@ namespace negocio
 
         public void eliminar(int Id)
         {
+            AccesoBD datos = new AccesoBD();
+
             try
             {
-                AccesoBD datos = new AccesoBD();
                 datos.setearConsulta("delete from articulos where Id = @Id");
                 datos.setearParametro("@Id", Id);
                 datos.ejecutarAccion();
@@ -365,13 +366,15 @@ namespace negocio
                 datos.limpiarParametros();
                 datos.setearConsulta("delete from IMAGENES where Id = @Id");
                 datos.setearParametro("@Id", Id);
-                datos.ejecutarAccion();
-
+                datos.ejecutarMasAcciones();
             }
             catch (Exception ex)
             {
                 throw ex;
-
+            }
+            finally
+            {
+                datos.cerrarConexion();
             }
         }
 

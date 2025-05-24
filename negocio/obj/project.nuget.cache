@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b+hZKrpe8F8=",
+  "dgSpecHash": "CPzPPK5rwk8=",
   "success": true,
-  "projectFilePath": "D:\\CódigoProgramación3\\10_APIs\\TPApi_equipo-8a\\negocio\\negocio.csproj",
+  "projectFilePath": "C:\\Dropbox (Personal)\\Programacion\\GitHub\\tp-api-equipo-8a\\TPApi_equipo-8a\\negocio\\negocio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\carle\\.nuget\\packages\\bootstrap\\5.3.5\\bootstrap.5.3.5.nupkg.sha512"
+    "C:\\Users\\calca\\.nuget\\packages\\bootstrap\\5.3.5\\bootstrap.5.3.5.nupkg.sha512"
   ],
   "logs": []
 }
